@@ -19,3 +19,6 @@ logs/
 # Code Analysis & Local Tooling
 .codegraph/
 .gemini/
+
+dist-standalone/
+release-assets/
